@@ -17,7 +17,7 @@ def letters_range(user_input: str):
 
 
 # Приклади використання:
-print(letters_range("I-w"))  # abc d → "abcd"
-print(letters_range("a-w"))  # xyz → "xyz"
-print(letters_range("A-d"))  # ABCD → "ABCD"
+print(letters_range("A-w"))  # abc d → "abcd"
+print(letters_range("a-W"))  # xyz → "xyz"
+print(letters_range("A-D"))  # ABCD → "ABCD"
 print(letters_range("c-h"))  # cdefgh → "cdefgh"
