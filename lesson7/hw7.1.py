@@ -7,4 +7,3 @@ print(say_hi("ivan", 40))
 print('ОК')
 
 
-# Hi. My name is Alex and I'm 32 years old", 'Test1'
