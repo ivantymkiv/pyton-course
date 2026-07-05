@@ -10,4 +10,4 @@ def correct_sentence(text: str) -> str:
 
 
 
-print(correct_sentence("hello ivan"))
+print(correct_sentence("greetings, friends."))
